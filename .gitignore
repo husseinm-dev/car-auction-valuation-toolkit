@@ -1,0 +1,20 @@
+# Virtual environments
+env/
+venv/
+.venv/
+
+# ChromeDriver binaries — download your own matching your Chrome version
+chromedriver
+chromedriver.exe
+
+# Watchlists — real auction data stays local
+*.xlsx
+uploads/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
